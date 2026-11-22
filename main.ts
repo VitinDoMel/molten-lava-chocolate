@@ -5,9 +5,9 @@ import { fileURLToPath } from 'node:url';
 /**
  * Single-ingredient culinary hero: Artisanal Belgian Molten Dark Chocolate Fondant
  * Written for make.fun food judge brief:
- * 1. Appetite appeal (warm oozing molten chocolate)
+ * 1. Appetite appeal (warm oozing molten chocolate core)
  * 2. Palpable texture (glossy liquid sheen, velvety sponge, dusting of bitter cocoa)
- * 3. Chiaroscuro studio lighting on slate plate
+ * 3. Chiaroscuro studio lighting on dark ceramic plate
  * 4. Clean craft and crisp framing
  * 5. High-contrast readability at small scale (300px)
  */
